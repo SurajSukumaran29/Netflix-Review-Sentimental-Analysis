@@ -22,12 +22,6 @@ Key Features:
 
     Positive Sentiments: Users loved the app's interface, content variety, and streaming quality.
     Negative Sentiments: Common issues were slow loading, crashes, and buffering problems.
+    Neutral Reviews: Reviews often mentioned average experiences, including minor bugs or features users found neither good nor bad.
 
 Word clouds for each sentiment category were generated to highlight the most common words and themes associated with user feedback.
-💡 How to Contribute
-
-    Fork the repository
-    Create a new branch (git checkout -b feature/your-feature)
-    Commit your changes (git commit -m 'Add new feature')
-    Push to the branch (git push origin feature/your-feature)
-    Open a Pull Request
