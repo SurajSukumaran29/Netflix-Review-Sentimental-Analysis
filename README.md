@@ -1,4 +1,4 @@
-Sentiment Analysis on Netflix App Reviews from Play Store
+# Sentiment Analysis on Netflix App Reviews from Play Store
 
 This project analyzes user reviews of the Netflix app from the Play Store using TextBlob for sentiment analysis and WordCloud for visualizing the most frequent terms for each sentiment category.
 📝 Project Overview
